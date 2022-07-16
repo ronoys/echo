@@ -55,8 +55,8 @@ function Home(props) {
                     <SimpleAccordion />
                 </Paper>
 
-                <img align='left' src={gemsLogo} />
-                <img align='right' src={honorsLogo} />
+                <img align='left' src={gemsLogo} alt='Gems Logo'/>
+                <img align='right' src={honorsLogo} alt='Honors College Logo'/>
 
             </Box>
             
