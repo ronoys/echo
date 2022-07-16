@@ -65,7 +65,8 @@ Those with hearing loss can have a difficult time detecting a range of sounds, a
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            [Contact info placeholder]
+          rmukhopa@umd.edu
+
           </Typography>
         </AccordionDetails>
       </Accordion>
